@@ -6,7 +6,7 @@ Just a quick & dirty table of every platform that exists and whether it supports
 |:----------------|-----------|----------------|---------------|---------|-------|
 | Windows         | YES       | YES            | YES           | YES     | YES   |
 | Mac             | YES       | MoltenVK       | Deprecated    | NO      | YES   |
-| Linux           | YES       | YES            | YES           | NO      | YES   |
+| Linux           | YES       | YES            | YES           | DXVK    | YES   |
 | iOS             | YES       | MoltenVK?      | YES           | NO      | NO    |
 | tvOS            | YES       | MoltenVK?      | YES           | NO      | NO    |
 | Android         | YES       | YES            | YES           | NO      | NO    |
