@@ -9,7 +9,7 @@ Just a quick & dirty table of every platform that exists and whether it supports
 | Linux           | YES       | YES            | YES           | DXVK    | YES   |
 | iOS             | YES       | MoltenVK       | YES           | NO      | NO    |
 | tvOS            | YES       | MoltenVK       | YES           | NO      | NO    |
-| Android         | YES       | YES            | YES           | NO      | NO    |
+| Android         | YES       | YES            | YES           | NO      | YES   |
 | Stadia          | YES       | YES            | YES           | NO      | ???   |
 | Nintendo Switch | YES       | YES            | YES           | NO      | NO    |
 | PlayStation 4   | NO        | NO             | NO            | NO      | NO    |
