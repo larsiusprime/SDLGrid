@@ -3,7 +3,7 @@ Just a quick & dirty table of every platform that exists and whether it supports
 
 
 | Platform        |  SDL      | Vulkan         | OpenGL        | DirectX | ANGLE |
-|-----------------|-----------|----------------|---------------|---------|-------|
+|:----------------|-----------|----------------|---------------|---------|-------|
 | Windows         | YES       | YES            | YES           | YES     | YES   |
 | Mac             | YES       | MoltenVK       | Deprecated    | NO      | YES   |
 | Linux           | YES       | YES            | YES           | NO      | YES   |
