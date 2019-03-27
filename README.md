@@ -1,7 +1,7 @@
 # SDLGrid
 Just a quick & dirty table of every platform that exists and whether it supports SDL, Vulkan, OpenGL, DirectX, and ANGLE in some shape or form.
 
-|-----------------|-----------|----------------|---------------|---------|-------|
+
 | Platform        |  SDL      | Vulkan         | OpenGL        | DirectX | ANGLE |
 |-----------------|-----------|----------------|---------------|---------|-------|
 | Windows         | YES       | YES            | YES           | YES     | YES   |
